@@ -15,7 +15,7 @@ No  [ ] <br />
 -Multiomics <br />
 -Other: [Please add any other labels not listed that you associate with your research] <br />
 
-3. Please select any of the following resources you use as part of conducting research: 
+3. Please select any of the following resources you use as part of conducting research: <br />
 Computational tools (e.g., DrugClust, PANTHER) <br />
 Omics repositories (e.g., GenBank, UniProt) <br />
 Knowledge bases (e.g., Reactome, DrugBank) <br />
