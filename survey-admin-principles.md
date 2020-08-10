@@ -20,7 +20,7 @@ Hello,<br />
 
 You were recently invited to participate in a survey intended to help shape an electronic biomedical research platform funded by the National Institutes of Health (NIH). Your feedback is truly critical.<br />
 
-As always, your responses are confidential, and only aggregate data will be reported. You can access the survey via the following link:<br />
+As always, your responses are confidential, and only aggregate data will be reported. Please feel free to forward this message to anyone you believe would be interested in this survey. You can access the survey via the following link:<br />
 
 []<br />
 
