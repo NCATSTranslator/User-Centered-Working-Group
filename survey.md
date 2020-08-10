@@ -25,14 +25,14 @@ No  [ ] <br />
 4. Please think back to a recent time when you were conducting research, what are some examples of the biomedical questions you explored? <br />
 [Enter response here] <br />
 
-5. When receiving answers from Translator, what sources of evidence would you want to accompany the answers you receive? Please select all that apply:
+5. When receiving answers from Translator, what sources of evidence would you want to accompany the answers you receive? Please select all that apply: <br />
 -Scientific literature <br />
 -Algorithmic <br />
 -Articles linked from scientific literature <br />
 -Statistical analyses <br />
 -Other: [Please add any other sources of evidence you would want to accompany the answers you receive from Translator] <br />
 
-6. When receiving answers from Translator, what sources of provenance would you want to accompany the answers you receive? Please select all that apply:
+6. When receiving answers from Translator, what sources of provenance would you want to accompany the answers you receive? Please select all that apply: <br />
 -Databases <br />
 -Knowledge graphs <br />
 -Computational tools <br />
