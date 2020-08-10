@@ -12,7 +12,7 @@ Survey participation will be incentivized by entering respondents into a raffle 
 
 # Expediting Survey Completion
 
-Every two weeks after the survey has been disseminated, scheduled reminder messages will be distributed by the POCs who helped disseminate the survey toward the aim of maximizing survey completion. The following message is a potential format to use:<br />
+Every two weeks after the survey has been disseminated, scheduled reminder messages will be distributed by the POCs who helped disseminate the survey toward the aim of maximizing survey completion. The below text is a potential format to use that can, for example, be appended to the original recruitment message sent out:<br />
 
 SUBJECT -- Reminder: Please Help Shape a Biomedical Research Platform<br />
 
