@@ -1,6 +1,6 @@
-This survey is being used to gather data on the electronic biomedical research platform, Translator. The Translator program is funded by the National Center for Advancing Translational Sciences (NCATS) at the National Institutes of Health (NIH). As a platform for facilitating biomedical research, the concept of Translator is analogous to a virtual oracle (i.e., all-knowing entity) that can search through and synthesize vast amounts of biomedical knowledge (e.g., Reactome, DrugBank) and biomedical data (e.g., GenBank, UniProt) to answer biomedical questions. The idea behind Translator is that biomedical researchers ask questions to help define and refine research hypotheses for more effective and efficient biomedical science. <br />
+The Biomedical Data Translator is funded by the National Center for Advancing Translational Sciences (NCATS) at the National Institutes of Health (NIH). The problem the Biomedical Data Translator addresses is that biomedical data and knowledge are heterogeneous, entailed in different areas of research, often disconnected, disorganized, and mired in disparate jargon. Biomedical data and knowledge are vast and represent a scale of contents beyond what humans can manage. <br />
 
-This survey is intended for biomedical researchers. Please provide an answer to each item listed below. We truly appreciate your time and perspective and offer our gratitude for your efforts. <br />
+The following survey is intended for potential users of the Biomedical Data Translator. <br />
 
 1. Prior to this survey, were you aware of the Translator program? <br />
 Yes [ ] <br />
