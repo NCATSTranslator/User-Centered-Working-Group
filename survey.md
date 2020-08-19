@@ -6,14 +6,20 @@ This survey is intended for biomedical researchers. Please provide an answer to 
 Yes [ ] <br />
 No  [ ] <br />
 
-2. Please select any of the following labels you identify with your research: <br />
--Genetics <br />
--Chemicals <br />
--Proteins <br />
--Clinical data <br />
--Environmental exposures <br />
--Multiomics <br />
--Other: [Please add any other labels not listed that you identify with your research] <br />
+2. Please select all of the labels that you identify your research with: <br />
+Genetics [ ] <br />
+Chemicals [ ] <br />
+Proteins [ ] <br />
+Clinical data [ ] <br />
+Environmental exposures [ ] <br />
+Multiomics [ ] <br />
+Diseases [ ] <br />
+Ontologies [ ] <br />
+Electronic health records [ ] <br />
+Clinical trials [ ] <br />
+Taxonomies [ ] <br />
+Phenotypes or symptoms [ ] <br />
+Other: [Please add any labels not listed that you identify your research with] <br />
 
 3. Please select any of the following resources you use as part of conducting research: <br />
 -Computational tools (e.g., DrugClust, PANTHER) <br />
