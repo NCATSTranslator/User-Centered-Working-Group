@@ -2,9 +2,9 @@ This survey is being used to gather data on the electronic biomedical research p
 
 This survey is intended for biomedical researchers. Please provide an answer to each item listed below. We truly appreciate your time and perspective and offer our gratitude for your efforts. <br />
 
-1. Prior to this survey, were you aware of the Translator program? <br />
-Yes [ ] <br />
-No  [ ] <br />
+1. Prior to this survey, were you aware of the Biomedical Data Translator program? <br />
+[ ] Yes <br />
+[ ] No <br />
 
 2. Please select any of the following labels you identify with your research: <br />
 -Genetics <br />
