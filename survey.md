@@ -1,4 +1,4 @@
-The Biomedical Data Translator is funded by the National Center for Advancing Translational Sciences (NCATS) at the National Institutes of Health (NIH). The problem the Biomedical Data Translator addresses is that biomedical data and knowledge are heterogeneous, entailed in different areas of research, often disconnected, disorganized, and mired in disparate jargon. Biomedical data and knowledge are vast and represent a scale of contents beyond what humans can manage. <br />
+The Biomedical Data Translator is funded by the National Center for Advancing Translational Sciences (NCATS) at the National Institutes of Health (NIH). The problem the Biomedical Data Translator addresses is that biomedical data and knowledge are heterogeneous, from different areas of research, often disconnected, disorganized, and mired in disparate jargon. Biomedical data and knowledge are vast and represent a scale of contents beyond what humans can manage. <br />
 
 The following survey is intended for potential users of the Biomedical Data Translator. <br />
 
