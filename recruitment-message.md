@@ -2,7 +2,7 @@
 
 Hello, <br />
 
-My name is Rosina Weber. I am a faculty member from Drexel University. My colleagues and I are conducting a survey to help shape an electronic biomedical research platform funded by the National Institutes of Health (NIH). To participate in our survey, you must be 18 years or older and an active biomedical researcher. <br />
+My name is Rosina Weber. I am a faculty member from Drexel University. My colleagues and I are conducting a survey to help shape The Biomedical Data Translator program funded by the National Institutes of Health (NIH). To participate in our survey, you must be 18 years or older and an active biomedical researcher. <br />
 
 The survey is voluntary and will take approximately 15 minutes to complete; your responses are confidential. You have till [] to complete the survey. By completing the survey, you will be entered into a raffle to win []. The results of this survey will be reported collectively, where the group of respondents is treated as a whole. Please feel free to forward this message to anyone you believe would be interested in this survey. The survey can be accessed via the following link:<br />
 
