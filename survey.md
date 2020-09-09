@@ -4,8 +4,6 @@ This exploratory survey is the first step in a series of user-centered studies w
 
 Methodological steps will include other forms of user-centered studies such as focus groups and interviews; participation is an opportunity to help shape the Biomedical Data Translator. <br />
 
-The following survey is intended for potential users of the Biomedical Data Translator. <br />
-
 1. Prior to this survey, were you aware of the Translator program? <br />
 Yes [ ] <br />
 No  [ ] <br />
