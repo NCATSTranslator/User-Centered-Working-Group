@@ -1,8 +1,8 @@
 # Mission
 The aim of the User-Centered Working Group is to function as an advisory board in support of a set of qualitative investigations, such as the initial survey being spearheaded by the Explanatory Agent team (see agenda). The goals of these studies are to learn about conditions that would lead to users trusting the Translator (note: these do not include interface or usability aspects). The investigations begin with surveying potential users, followed by in-depth interviews and focus groups, to systematically comprehend the user facet of the Translator ecosystem. This working group invites members who are interested in user- and use- aspects and in social science perspectives. Outputs from the qualitative analyses will be reported and discussed with the members of the User-Centered Working Group, communicated to all Translator members, and used toward informing the design and development of Translator. <br />
 
-# Inaugural Moderator
-Rosina Weber, Explanatory Agent <br />
+# Working Group Owner
+Robert Hubal  <br />
 
 # Inaugural Members <br />
 Andrew Hoffman (Expander Agent) <br />
